@@ -10,3 +10,6 @@ https://github.com/deepart-io/deepart-api
 
 Host with Github pages:
 https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+
+Use the Printful Mockup Generator:
+https://www.printful.com/docs/generator
